@@ -1,6 +1,6 @@
 let text = prompt("Enter A Phrase");
-let result = console.log(text.toLowerCase());
-
+let result = text.toLowerCase();
+console.log(result);
 
 
 let text1 = prompt("Enter Another Phrase");
