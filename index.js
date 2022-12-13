@@ -1,8 +1,7 @@
-let text = prompt("Enter A Phrase");
-let result = text.toLowerCase();
-console.log(result);
+let number = prompt ("Enter A Phrase")
+let answer = number.toUpperCase();
+console.log(answer);
 
-
-let text1 = prompt("Enter Another Phrase");
-let result1 = text1.toUpperCase();
-console.log(result1);
+let number1 = prompt ("Enter Another Phrase")
+let answer1 = number1.toLowerCase();
+console.log(answer1);
